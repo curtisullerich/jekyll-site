@@ -343,13 +343,13 @@ Vale includes Chamberlain, Shackleton, Maple Bank, Elgar Court, Aitken, Chelwood
 ##### Tennis Court
 This is basically the same as the Vale but is across the road and 50 meters closer to campus. The only reason I make a distinction is because of the municipal separation. 15-20 minute walk from campus. Slightly shorter than the Vale.
 
-##### Selly Oak*
+##### Selly Oak\*
 I'm mainly familiar with the private sector at Selly Oak, but there are three halls there: Jarrat, Douper, and Victoria. 637 student live in the halls, but hundreds more live in the private sector. 10 minute walk to campus.
 
-##### Five Ways*
+##### Five Ways\*
 I know  nothing personally about Five Ways, except that you'll have to take a train to get to campus. I wouldn't live there. Halls here include The Beeches, Hunter Court, and Queens Hospital Close. Train ride to campus.
 
-*Note that the halls at Selly Oak and Five Ways may now be owned privately. If they don't appear in your housing options when you're applying for a space, that would be the reason.
+\*Note that the halls at Selly Oak and Five Ways may now be owned privately. If they don't appear in your housing options when you're applying for a space, that would be the reason.
 
 #### How much will housing cost?
 
@@ -461,7 +461,7 @@ I haven't found much for public wifi in the city. If you're in a bind, McDonald'
 
 #### How safe is running in Birmingham?
 
-I've never had any issues. The canals are great, and used by many pedestrians, so they're well-traveled and safe.*
+I've never had any issues. The canals are great, and used by many pedestrians, so they're well-traveled and safe.
 
 #### Which taxi companies are safe?
 
@@ -693,11 +693,11 @@ So far it's been fine. I avoid certain people on the street, obviously.
 #### What's the British equivalent of 911?
 
 112 or 999 is preferred across Europe, though 911 may still work 
-http://en.wikipedia.org/wiki/Emergency_telephone_number
+http://en.wikipedia.org/wiki/Emergency\_telephone\_number
 
 #### Where are some awesome places to take pictures?
 
-Here's a [map]9http://maps.google.co.uk/maps/ms?hl=en&ie=UTF8&msa=0&msid=104840534725713564730.0000011277c4520c16147&ll=53.87844,-2.680664&spn=11.51887,40.03418&t=h&z=5). And [another one](http://www.ephotozine.com/photolocations).
+Here's a [map](http://maps.google.co.uk/maps/ms?hl=en&ie=UTF8&msa=0&msid=104840534725713564730.0000011277c4520c16147&ll=53.87844,-2.680664&spn=11.51887,40.03418&t=h&z=5). And [another one](http://www.ephotozine.com/photolocations).
 
 #### What else can I see in England?
 
@@ -710,7 +710,7 @@ Certainly not in Birmingham. You'll be luck to see five stars on a clear night. 
 #### How do I dial an international number?
 
 You need the country code, preceeded by two zeroes. 
-So it's 00 [country code] [phone number].
+So it's 00 \[country code\] \[phone number\].
 Phone numbers in the UK are listed any number of ways, including one long string of numbers. They're not even always the same length. It's really annoying. The UK's country code is 44.
 
 #### Which floor is up the first flight of stairs in a building?

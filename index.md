@@ -5,10 +5,8 @@ tagline: Portfolio
 ---
 {% include JB/setup %}
 
-{% fancyimage right /img/speaker.jpg 400x200 Example %}
-
 ## About Me
-
+{% fancyimage right /img/switches.jpg 400x200  %}
 I am currently a senior in Computer Engineering with a minor in Music Technology at Iowa State University. This is my portfolio of accomplishments and projects as a student, intern, and active member of my community. Outside of my career as an engineer, I have a variety of passions. I am very involved in youth development through the 4-H program as president of ISU Collegiate 4-H and mentor on the Iowa 4-H Youth Tech Team. I am in the marching band, symphonic band, and organize a variety of community music performances throughout the year. I enjoy running, and have completed three half marathons. I am a fan of photography and have taken up the hobby on my own within the last year.
     
 ## Career Objective

@@ -17,7 +17,7 @@ author :
   github : curtisullerich
 
 #source : .
-#destionation : ./_site
+#destination : ./_site
 #plugins : ./_plugins
 
 # The production_url is only used when full-domain names are needed

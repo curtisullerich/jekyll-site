@@ -21,4 +21,8 @@ The following summer, we re-evaluated our design and completed the system for us
 
 This system is currently used daily with the marching band of 320 students and automates hundreds of man hours of labor each year. The code for the project is available at [Github](https://github.com/curtisullerich/attendance).
 
-//screenshots. link to demo deploy?
+<!---screenshots. link to demo deploy?-->
+{% fancyimage center /img/attendance_student.png 1000x1000 Student view of the attendance system. %}  
+  
+{% fancyimage center /img/attendance_director.png 1000x1000 Director view of the attendance system. %}
+
