@@ -11,5 +11,5 @@ While at the University of Birmingham, England, during my semester [abroad](/abr
 Electroacoustic music is the art form that takes ambient, usually recorded sounds and modifies them  electronically to introduce musical gesture and form. This experience was a great addition to my music technology minor.  
 
 Below are my two final projects, "Etude" and "Chimeric Devotion" from my seminar and independent study courses, respectively.
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F32606962&amp;auto_play=false&amp;show_artwork=false&amp;color=00a203"> </iframe>
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F62399244&amp;auto_play=false&amp;show_artwork=false&amp;color=00a203"> </iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F32606962&amp;auto_play=false&amp;show_artwork=false&amp;color=33b5e5"> </iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F62399244&amp;auto_play=false&amp;show_artwork=false&amp;color=33b5e5"> </iframe>

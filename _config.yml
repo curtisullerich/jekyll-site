@@ -4,7 +4,15 @@ permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
+
+# to use:
+# sudo apt-get install python-setuptools
+# sudo easy_install Pygments
+# generate the css
+# pygmentize -S default -f html > default.css
+# and include it in default.html
 pygments: true
+
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
@@ -19,6 +27,13 @@ author :
 #source : .
 #destination : ./_site
 #plugins : ./_plugins
+
+picasa_album:
+    thumbnail_size: 0
+    gallery_tag: div
+    gallery_class: gallery
+    a_rel: fancybox
+    a_class: fancybox
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -99,9 +114,9 @@ JB :
   # Set 'provider' to false to turn analytics off globally.
   #        
   analytics :
-    provider : google 
+    provider : google
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-23883922-2'
     getclicky :
       site_id : 
     mixpanel :

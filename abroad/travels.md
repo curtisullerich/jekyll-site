@@ -5,7 +5,7 @@ header: My Travel Journal, Spring Break 2011
 group: abroad
 ---  
 
-**Welcome to my journal. These are the details of my one month adventure through nine countries in Europe during my Easter break from classes at the University of Birmingham in the spring of 2011. I'll warn you, this is a big'n. Over 25,000 words, for which I apologize. I got a little carried away, but this guarantees that I won't forget anything from my adventure. That said, enjoy!**  
+#### Welcome to my journal. These are the details of my one month adventure through nine countries in Europe during my Easter break from classes at the University of Birmingham in the spring of 2011. I'll warn you, this is a big'n. Over 25,000 words, for which I apologize. I got a little carried away, but this guarantees that I won't forget anything from my adventure. That said, enjoy!
 
 Edinburgh  
 

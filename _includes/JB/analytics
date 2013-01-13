@@ -1,5 +1,8 @@
-{% if site.safe and site.JB.analytics.provider and page.JB.analytics != false %}
-
+<!-- analytics -->
+<!-- if site.safe and site.JB.analytics.provider and page.JB.analytics != false -->
+<!-- Note that this comment is due to a hack to get analytics to work
+when not deployed to github pages. -->
+{% if site.JB.analytics.provider and page.JB.analytics != false %}
 {% case site.JB.analytics.provider %}
 {% when "google" %}
   {% include JB/analytics-providers/google %}
@@ -10,5 +13,4 @@
 {% when "custom" %}
   {% include custom/analytics %}
 {% endcase %}
-
 {% endif %}
