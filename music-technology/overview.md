@@ -5,7 +5,7 @@ header: Music Technology
 group: overview
 ---
 {% include JB/setup %}
-{% fancyimage left /img/sax.jpg 400x200 Me playing in Popcorn Button at the Holiday Ball. %}
+{% fancyimage left /img/sax.jpg 400x200 %}
 
 You can use the drop down menu above to view some of my music tech projects.  
 
